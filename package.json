@@ -1,0 +1,31 @@
+{
+  "name": "@warp-works/warpjs-filter-box",
+  "version": "1.0.0",
+  "description": "Simple UI filter-box",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/WarpWorks/warpjs-filter-box.git"
+  },
+  "keywords": [
+    "warp-works",
+    "warpjs",
+    "filter-box"
+  ],
+  "author": {
+    "name": "Hữu Ðà Trần",
+    "email": "huuda.tran@quoininc.com",
+    "url": "https://www.quoininc.com/staff/huu-da-tran/"
+  },
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/WarpWorks/warpjs-filter-box/issues"
+  },
+  "homepage": "https://github.com/WarpWorks/warpjs-filter-box#readme",
+  "dependencies": {
+    "lodash": "4.x.x"
+  }
+}
