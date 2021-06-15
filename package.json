@@ -1,10 +1,14 @@
 {
   "name": "@warp-works/warpjs-filter-box",
-  "version": "1.0.1",
+  "version": "2.0.0-rc.1",
   "description": "Simple UI filter-box",
   "main": "index.js",
+  "publishConfig": {
+    "access": "public",
+    "tag": "node14"
+  },
   "engines": {
-    "node": ">=8.12.0"
+    "node": ">=14.15.0"
   },
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
@@ -29,6 +33,6 @@
   },
   "homepage": "https://github.com/WarpWorks/warpjs-filter-box#readme",
   "dependencies": {
-    "lodash": "~4.17.14"
+    "lodash": "^4.17.21"
   }
 }
