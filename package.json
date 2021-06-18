@@ -1,6 +1,6 @@
 {
   "name": "@warp-works/warpjs-filter-box",
-  "version": "2.0.0-rc.1",
+  "version": "2.0.0",
   "description": "Simple UI filter-box",
   "main": "index.js",
   "publishConfig": {
