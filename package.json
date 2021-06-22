@@ -1,11 +1,10 @@
 {
   "name": "@warp-works/warpjs-filter-box",
-  "version": "2.0.0-rc.1",
+  "version": "2.0.1",
   "description": "Simple UI filter-box",
   "main": "index.js",
   "publishConfig": {
-    "access": "public",
-    "tag": "node14"
+    "access": "public"
   },
   "engines": {
     "node": ">=14.15.0"
